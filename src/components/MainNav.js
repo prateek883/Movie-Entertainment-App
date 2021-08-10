@@ -13,7 +13,7 @@ const useStyles = makeStyles({
     bottom: 0,
     backgroundColor: '#2d313a',
     zIndex: 100,
-  },ij
+  },
 });
 
 export default function SimpleBottomNavigation() {
