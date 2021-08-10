@@ -4,3 +4,9 @@
   color: white;
   padding-top: 130px;
 }
+
+@media (max-width: 700px){
+  .app{
+    padding-top: 70px;
+  }
+}
